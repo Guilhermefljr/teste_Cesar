@@ -18,6 +18,6 @@ $ python challenge_2.py
 * * *
 
 Guilherme Junior
-<<guilhermefljr@gmail.com>>
+<<guilhermefljr@hotmail.com>>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=//linkedin.com/in/guilherme-felix-de-lima-junior-99418335)](https://www.linkedin.com/in/guilherme-felix-de-lima-junior-99418335/)
