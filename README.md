@@ -1,18 +1,17 @@
 # Guilherme Challenge
 
-This repository has the code that solve the CESAR challenge to position QA Engineer Junior
+This repository has the code that solve the CESAR challenge positioning QA Engineer Junior.
 
 ## Prerequisites
 - Python (v3.6)
 - Selenium
-- Chrome Driver (v97)
+- Google Chrome Version 97.0.4692.71 (Official Build)
 
 ## How to run
 To execute the challenge you will need install selenium dependency and execute the command bellow:
 ```bash
 $ pip install selenium
-$ python challenge_1.py
-$ python challenge_2.py
+$ python challenges.py
 ```
 
 * * *
